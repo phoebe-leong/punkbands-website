@@ -1,3 +1,8 @@
+@font-face {
+	font-family: "Cyberpnuk2";
+	src: url("fonts/cyberpnuk2.regular.ttf");
+}
+
 body {
 	background-color: white;
 
@@ -15,6 +20,7 @@ body {
 
 	text-align: center;
 
+	font-family: "Cyberpnuk2";
 	font-size: 30px;
 }
 
